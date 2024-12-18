@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PACMAN GAME - TARIMAN:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PACMAN_GAME___TARIMAN_jar</output-path>
+    <root id="archive" name="PACMAN GAME - TARIMAN.jar">
+      <element id="module-output" name="PACMAN GAME - TARIMAN" />
+    </root>
+  </artifact>
+</component>
